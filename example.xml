@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body style="background: green;">
+	<div style="orientation: vertical;">
+		<button>test button A</button>
+		<button>test button 2</button>
+		<button>test button 3</button>
+	</div>
+</body>

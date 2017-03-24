@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UIRenderExample"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
+        Title="MainWindow" Height="600" Width="800">
+    <Grid >
+        <Canvas x:Name="mCanvas" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MouseMove="mCanvas_MouseButton" MouseDown="mCanvas_MouseButton" MouseUp="mCanvas_MouseButton"></Canvas>
     </Grid>
 </Window>

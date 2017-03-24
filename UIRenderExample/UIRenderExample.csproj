@@ -54,6 +54,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="SUIButton.cs" />
+    <Compile Include="SUIDivPanel.cs" />
+    <Compile Include="SUIElement.cs" />
+    <Compile Include="SUILabel.cs" />
+    <Compile Include="SUIStructs.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
